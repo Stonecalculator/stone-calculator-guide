@@ -1,1 +1,1 @@
-assets/images/readme.md
+Image assets folder

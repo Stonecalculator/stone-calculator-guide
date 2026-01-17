@@ -4,8 +4,6 @@ title: "How Much Stone Do I Need? Calculator & Estimation Guide"
 description: "Learn how to estimate stone quantity using a simple calculator. Understand bags, yards, and tons for landscaping and construction projects."
 ---
 
-# How Much Stone Do I Need? Calculator & Estimation Guide
-
 Estimating the right amount of stone is an important step in any landscaping or construction project. Ordering too much can increase costs, while ordering too little can delay your work.
 
 This guide explains how stone quantity is calculated and how a stone calculator helps simplify the process.

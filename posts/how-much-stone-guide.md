@@ -1,6 +1,7 @@
 ---
-title: How Much Stone Do I Need? Calculator & Estimation Guide
-description: Learn how to estimate stone quantity using a simple calculator approach. Understand bags, yards, and tons for landscaping and construction projects.
+layout: post
+title: "How Much Stone Do I Need? Calculator & Estimation Guide"
+description: "Learn how to estimate stone quantity using a simple calculator. Understand bags, yards, and tons for landscaping and construction projects."
 ---
 
 # How Much Stone Do I Need? Calculator & Estimation Guide

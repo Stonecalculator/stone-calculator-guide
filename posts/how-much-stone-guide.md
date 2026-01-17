@@ -7,6 +7,7 @@ description: "Learn how to estimate stone quantity using a simple calculator. Un
 Estimating the right amount of stone is an important step in any landscaping or construction project. Ordering too much can increase costs, while ordering too little can delay your work.
 
 This guide explains how stone quantity is calculated and how a stone calculator helps simplify the process.
+![Stone calculator example showing stone quantity estimation for landscaping projects](/stone-calculator-guide/assets/images/stone-calculator-example.jpg)
 
 ---
 
